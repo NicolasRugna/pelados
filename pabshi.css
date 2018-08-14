@@ -1,0 +1,39 @@
+body {
+    background-color: black !important;
+}
+
+.tit {
+    color: dodgerblue !important;
+    text-align: center;
+    font-size: 50px;
+    font-family: Aldrich;
+    }
+
+p{
+   padding-top: 18px;
+   font-size: 22px;
+   color: crimson;  
+   font-family: Aldrich;
+   font-weight: lighter;
+}
+
+ 
+table {
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: crimson;
+    font-family: Carter one;
+}
+a{
+    color:dodgerblue;
+}
+
+ol,h1 {
+    color: crimson !important;
+    font-family: aldrich !important;
+    font-size: 20px;
+}
+
+

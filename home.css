@@ -1,0 +1,22 @@
+body, .text-center {
+    background-color: black !important;
+}
+
+.text-center {
+    font-family: carter one;
+    color: dodgerblue;
+}
+
+h1,p {
+    font-family: carter one;
+    color: crimson;
+}
+
+.nav-link  {
+    color: dodgerblue;
+}
+
+.container {
+    font-family: aldrich;
+    color: crimson;
+}
